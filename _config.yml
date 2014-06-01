@@ -1,0 +1,9 @@
+exclude: [".rbenv-version", "README.md", "Rakefile", "CNAME"]
+permalink: /posts/:title/
+paginate_path: "/page/:num"
+paginate: 10
+pygments: true
+markdown: rdiscount
+rdiscount:
+    extensions: [smart]
+production_url : http://jekyll.karol.pro
