@@ -4,7 +4,7 @@ title: VW Scandal
 url: vw-scandal
 ---
 
-Danny Hakim, Aaron M. Kessler, and Jack Ewing writing [about the VW scandal for New York Times](http://www.nytimes.com/2015/09/27/business/as-vw-pushed-to-be-no-1-ambitions-fueled-a-scandal.html): 
+Danny Hakim, Aaron M. Kessler, and Jack Ewing writing [about the VW scandal for The New York Times](http://www.nytimes.com/2015/09/27/business/as-vw-pushed-to-be-no-1-ambitions-fueled-a-scandal.html):
 
 > Confronted again, Volkswagen continued to maintain that there was a problem with the testers, not the vehicles.
 
@@ -14,4 +14,4 @@ Danny Hakim, Aaron M. Kessler, and Jack Ewing writing [about the VW scandal for 
 
 > Regulators set out to cheat the cheat, tweaking lab test parameters to trick the car into thinking it was on the road. The Volkswagens began spewing nitrogen oxide far above the legal limit.
 
-Crazy. (Emphasis is mine.)
+Crazy. (Emphasis mine.)
