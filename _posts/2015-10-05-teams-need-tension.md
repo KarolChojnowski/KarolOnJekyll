@@ -4,7 +4,7 @@ title: Team Tension is Good
 url: tension-is-good
 ---
 
-Emmet Connolly over at [*Inside Intercom*](https://blog.intercom.io/healthy-tension-in-product-teams/):
+Emmet Connolly over at the [*Inside Intercom*](https://blog.intercom.io/healthy-tension-in-product-teams/):
 
 > In today’s works-well-with-others corporate culture many people think of conflict as something to be avoided. After all, who wants to work with a combative asshole? But teams are relationships, and without a little pressure and willingness to push one another to do better, excellence can be an early casualty of collaboration. A team that’s unwilling to hold one another to a high standard will quickly see that standard slip. [...]
 
