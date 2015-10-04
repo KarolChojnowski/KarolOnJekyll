@@ -4,7 +4,7 @@ title: The Cost of Paying Attention
 url: the-cost-of-paying-attention
 ---
 
-Matthew B. Crawford [writing for The New York Times](http://www.nytimes.com/2015/03/08/opinion/sunday/the-cost-of-paying-attention.html) on value of attention:
+Matthew B. Crawford [writing for The New York Times on value of attention](http://www.nytimes.com/2015/03/08/opinion/sunday/the-cost-of-paying-attention.html):
 
 > What if we saw attention in the same way that we saw air or water, as a valuable resource that we hold in common? [...]
 
