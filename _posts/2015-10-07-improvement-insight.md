@@ -4,7 +4,7 @@ title: Improvement insight
 url: improvement-insight
 ---
 
-Yet another [great post by Horece Dediu](http://www.asymco.com/2015/09/29/what-it-means-to-be-great/). Few interesting quotes before you read the whole thing:
+Yet another [great post by Horace Dediu](http://www.asymco.com/2015/09/29/what-it-means-to-be-great/). Few interesting quotes before you read the whole thing:
 
 On adding features:
 
