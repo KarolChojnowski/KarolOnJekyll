@@ -6,7 +6,7 @@ url: improvement-insight
 
 Yet another [great post by Horece Dediu](http://www.asymco.com/2015/09/29/what-it-means-to-be-great/). Few interesting quotes before you read the whole thing:
 
-On adding features to your product:
+On adding features:
 
 > A change that is ignored is not only valueless, it may actually destroy perception of value. It creates clutter and confusion. A change that is absorbable is valuable. It is meaningful.
 
