@@ -13,5 +13,3 @@ Emmet Connolly over at the [*Inside Intercom*](https://blog.intercom.io/healthy-
 > Sometimes this can involve pushing against one another. “I don’t think that’s good enough,” they’ll tell each other. “I know we can do something better here.”
 
 > This can often involve presenting your colleague and friend with some honest truths. Egos need to be checked, and trust becomes paramount. But a mature, well-functioning, collaborative team is plenty capable of doing this. As a group, they’re not happy to sign their name to something unless they think it’s great, in every regard. They push and pull each other towards greatness. They hold each other up.
-
-Amen brother.
